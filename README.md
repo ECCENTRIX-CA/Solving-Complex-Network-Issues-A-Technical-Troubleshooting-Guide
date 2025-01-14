@@ -1,8 +1,8 @@
 # Solving Complex Network Issues A Technical Troubleshooting Guide
-Network troubleshooting in modern cloud environments requires systematic analysis and a deep understanding of interconnected components. As covered in the [Microsoft Certified: Azure Network Engineer](https://www.eccentrix.ca/en/courses/microsoft/azure/microsoft-certified-azure-network-engineer-associate-az700/) Associate certification path, this technical guide explores methodologies and tools for diagnosing and resolving complex network issues in Azure environments.  
+Network troubleshooting in modern cloud environments requires systematic analysis and a deep understanding of interconnected components. As covered in the [Microsoft Certified: Azure Network Engineer Associate](https://www.eccentrix.ca/en/courses/microsoft/azure/microsoft-certified-azure-network-engineer-associate-az700/) certification path, this technical guide explores methodologies and tools for diagnosing and resolving complex network issues in Azure environments.  
 
 ## Systematic Troubleshooting Framework  
-A structured approach to network diagnostics begins with understanding the OSI model layers and their corresponding Azure networking components. For comprehensive coverage of these foundational concepts, the [Microsoft Certified: Azure Administrator](https://www.eccentrix.ca/en/courses/microsoft/azure/microsoft-certified-azure-administrator-associate-az104/) Associate certification provides essential knowledge for IT professionals.  
+A structured approach to network diagnostics begins with understanding the OSI model layers and their corresponding Azure networking components. For comprehensive coverage of these foundational concepts, the [Microsoft Certified: Azure Administrator Associate](https://www.eccentrix.ca/en/courses/microsoft/azure/microsoft-certified-azure-administrator-associate-az104/) certification provides essential knowledge for IT professionals.  
 
 ### Diagnostic Methodology  
 The systematic troubleshooting process follows these key phases:  
@@ -14,7 +14,7 @@ The systematic troubleshooting process follows these key phases:
 ## Connectivity Issues Analysis  
 
 ### Layer 3 Connectivity
-Network connectivity issues often stem from routing configuration or NSG rules. Security professionals pursuing the [Microsoft Certified: Azure Security Engineer](https://www.eccentrix.ca/en/courses/microsoft/security/microsoft-certified-azure-security-engineer-associate-az500/) Associate certification will find detailed coverage of these critical security components and their troubleshooting methodologies.   
+Network connectivity issues often stem from routing configuration or NSG rules. Security professionals pursuing the [Microsoft Certified: Azure Security Engineer Associate](https://www.eccentrix.ca/en/courses/microsoft/security/microsoft-certified-azure-security-engineer-associate-az500/) certification will find detailed coverage of these critical security components and their troubleshooting methodologies.   
 
 ### Network Security Groups 
 NSG troubleshooting requires systematic verification:  
@@ -26,7 +26,7 @@ NSG troubleshooting requires systematic verification:
 ## Performance Diagnostics  
 
 ### Latency Analysis 
-Performance issues require detailed examination of network components. As explored in the [Microsoft Certified: Azure Solutions Architect](https://www.eccentrix.ca/en/courses/microsoft/azure/microsoft-certified-azure-solutions-architect-expert-az104-305/) Expert certification, understanding the relationship between these components is crucial for effective troubleshooting.   
+Performance issues require detailed examination of network components. As explored in the [Microsoft Certified: Azure Solutions Architect Expert](https://www.eccentrix.ca/en/courses/microsoft/azure/microsoft-certified-azure-solutions-architect-expert-az104-305/) certification, understanding the relationship between these components is crucial for effective troubleshooting.   
 
 ### Throughput Optimization
 
