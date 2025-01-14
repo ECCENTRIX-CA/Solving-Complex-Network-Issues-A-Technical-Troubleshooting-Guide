@@ -100,4 +100,4 @@ Establish robust monitoring:
 - Trend analysis  
 
 ### Documentation and Recovery
-Understanding comprehensive recovery procedures is essential for network professionals. The [Microsoft Certified: Azure Administrator](https://www.eccentrix.ca/en/courses/microsoft/azure/microsoft-certified-azure-administrator-associate-az104/) Associate certification provides fundamental knowledge of backup and recovery strategies.  
+Understanding comprehensive recovery procedures is essential for network professionals. The [Microsoft Certified: Azure Administrator Associate](https://www.eccentrix.ca/en/courses/microsoft/azure/microsoft-certified-azure-administrator-associate-az104/) certification provides fundamental knowledge of backup and recovery strategies.  
